@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 
-- 🔭 I’m currently working in a Data Analytics project in Tool Brightguage
+- 🔭 I’m currently working in a Data Analytics project in Tableau
 - 🌱 I’m currently learning Deeplearning
 - 👯 I’m looking to collaborate on NLP and Image Processing in Deeplearning 
 - 💬 Ask me about Datascience and Machine Leanring
